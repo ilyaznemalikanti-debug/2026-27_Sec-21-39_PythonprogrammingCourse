@@ -1,0 +1,18 @@
+a=5
+b=15
+result= a > b #greater then comparision operator  
+print(result)
+
+result= a==b #equal to
+print=(result)
+
+result= a!=b #not equals to
+print(result)
+
+result= a < b #less then 
+    print(result)
+
+result= a >= b #greater then or equal to
+    print(result) 
+
+    result= a <= b #less then or equal to
