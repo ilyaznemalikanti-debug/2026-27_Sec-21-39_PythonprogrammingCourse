@@ -1,0 +1,10 @@
+#identity operators exercise
+a=[1,2,3]
+b=a
+result=b is a # is identity operators
+print("result of",b,"is a",a,"is:",result)
+
+c=[1,2,3]
+d=[1,2,3]
+result1=c is d # is identity operators
+print("result of",c,"is",d,"is:",result1)
