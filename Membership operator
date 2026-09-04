@@ -1,0 +1,10 @@
+#membership operator
+a=[44,9,78]
+result=88 in a #membership operator
+print("result of",88,"in",a,"is:",result)
+
+result1=44 in a #membership operator
+print("result of",44,"in",a,"is:",result1)
+
+result2=44 not in a #membership operator
+print("result of",44,"not in",a,"is:",result2)
