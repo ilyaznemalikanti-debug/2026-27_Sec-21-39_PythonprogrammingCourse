@@ -1,0 +1,7 @@
+# To calculate the compound interest 
+
+principal=float(input("Enter the principal amount:in Rs"))
+rate=float(input("Enter the rate of interest: %"))
+time=float(input("Enter the time period: in years"))
+compound_interest=principal*(1+rate/100)**time
+print("The compound interest is: ",compound_interest)
