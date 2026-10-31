@@ -1,0 +1,17 @@
+#Create and Access Elements of a Tuple
+# Create a tuple
+t = (10, 20, 30, 40, 50)
+
+# Display tuple
+print("Tuple:", t)
+
+# Access elements
+print("First element:", t[0])
+print("Second element:", t[1])
+print("Last element:", t[-1])
+
+# Traverse tuple
+print("Tuple elements:")
+
+for i in t:
+    print(i)
